@@ -5,10 +5,8 @@
 # Hi there👋<br/>
 ### 💪I'm currently working on<br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eononenoe&show_icons=true&theme=graywhite&hide=stars,contribs&count_private=true&show_icons=true)<br/>
-<br/>
 ### 📡I'm currently Top Languages<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eononenoe&layout=compact&theme=default)<br/>
-<br/>
 ### 🔨 Language use 🔨
 <div style="display:flex; flex-direction=row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
