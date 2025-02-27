@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=eononenoe%20&fontSize=90" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Yoo99&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eononenoe&layout=compact&theme=algolia)
