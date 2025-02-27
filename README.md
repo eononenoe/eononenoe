@@ -18,4 +18,4 @@
     <br/>
 </div><br/>
 
-![](./profile-3d-contrib/profile-night rainbow versione.svg)
+![](./profile-3d-contrib/profile-night rainbow.svg)
