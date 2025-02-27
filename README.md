@@ -6,7 +6,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eononenoe&show_icons=true&theme=graywhite&hide=stars,contribs&count_private=true&show_icons=true)<br/>
 ### 📡 I'm currently Top Languages<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eononenoe&layout=compact&theme=default)<br/>
-### 🔨 Language use 🔨
+### 📚 Language use 
 <div style="display:flex; flex-direction=row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
