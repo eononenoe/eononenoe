@@ -18,4 +18,4 @@
     <br>
 </div>
 <br/>
-![gnn](/profile-3d-contrib/profile-night-rainbow.svg)<br/>
+![](./profile-3d-contrib/profile-green-animate.svg)
