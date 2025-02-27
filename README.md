@@ -2,7 +2,7 @@
 **eononenoe/eononenoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 👋 Hi there<br/>
-### 💪 I'm currently working on<br/>
+### 💪 I'm currently Working on<br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eononenoe&show_icons=true&theme=graywhite&hide=stars,contribs&count_private=true&show_icons=true)<br/>
 ### 📡 I'm currently Top Languages<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eononenoe&layout=compact&theme=default)<br/>
@@ -18,4 +18,5 @@
     <br/>
 </div><br/>
 
+### ⏱ I'm currently Record
 ![](./profile-3d-contrib/profile-season-animate.svg).svg)
