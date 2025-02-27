@@ -18,4 +18,4 @@
     <br/>
 </div><br/>
 
-![](./profile-3d-contrib/profile-3d-contrib/profile-season-animate.svg).svg)
+![](./profile-3d-contrib/profile-season-animate.svg).svg)
