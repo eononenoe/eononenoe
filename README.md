@@ -3,3 +3,4 @@
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=eononenoe%20&fontSize=90" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eononenoe&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eononenoe&layout=compact&theme=dracula)
