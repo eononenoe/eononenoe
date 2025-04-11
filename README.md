@@ -26,7 +26,7 @@
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=eononenoe&hide_border=true&locale=en)
+![GitHub Stats](https://streak-stats.demolab.com?user=eononenoe&hide_border=true&locale=en)
 
 </div>
 
