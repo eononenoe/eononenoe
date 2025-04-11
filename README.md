@@ -24,12 +24,9 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://streak-stats.demolab.com?user=eononenoe&hide_border=true&locale=en)
-
-</div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eononenoe&hide_border=true&locale=en" alt="GitHub Stats" />
+</p>
 
 ---
 
