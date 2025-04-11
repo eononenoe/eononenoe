@@ -61,12 +61,12 @@
 
 ## 📦 Featured Projects
 
-> 🛠️ **Project Name 1**  
-> - Small description about what this project solves.
-> - [🔗 View Repository](https://github.com/your-repo-link)
+### 🔨 [INFOMATION_LECTURE](https://github.com/eononenoe/INFOMATION_LECTURE)
+- 정보처리산업기사 과정평가형 내용 정리 REPO입니다.
+- [🔗 View Repository](https://github.com/eononenoe/INFOMATION_LECTURE)
 
-> 🛠️ **Project Name 2**  
-> - Another small description.
-> - [🔗 View Repository](https://github.com/your-repo-link)
+### 🔨 [Project_HealthMe](https://github.com/eononenoe/Project_HealthMe)
+- 헬시미 프로젝트입니다.
+- [🔗 View Repository](https://github.com/eononenoe/Project_HealthMe)
 
 ---
