@@ -24,9 +24,12 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eononenoe&hide_border=true&locale=en"/>
-</p>
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=eononenoe&hide_border=true&locale=en)
+
+</div>
+
 
 ---
 
