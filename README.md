@@ -41,7 +41,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eononenoe&theme=github_light" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eononenoe&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j"/>
 </p>
 
 ---
