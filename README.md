@@ -62,7 +62,7 @@
 ## 🐍 Contributions Snake
 
 <p align="center">
-  <img src="https://github.com/eononenoe/eononenoe/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://eononenoe.github.io/eononenoe/github-contribution-grid-snake.svg" />
 </p>
 
 ---
