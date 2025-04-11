@@ -15,10 +15,10 @@
 > "Started coding out of pure curiosity, built my first website in high school,  
 > and fell in love with how a few lines of code can change the world."
 
-- 🔭 Currently building **full-stack applications** with **Java, Spring Boot, MySQL, JavaScript**
+- 🔭 Currently building **full-stack applications** with **Java, Spring, Oracle, MySQL, JavaScript, JSP, Python, HTML, CSS, Vibe Coding**
 - 🌱 Diving deeper into **Cloud Computing (AWS)** and **System Design**
 - 🛠️ Passionate about writing **clean, scalable, and impactful code**
-- 📫 Contact me: **[jeonghyeon0921.gmail.com]**
+- 📫 Contact me: **[ jeonghyeon0921@gmail.com ]**
 
 ---
 
