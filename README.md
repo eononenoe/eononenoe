@@ -22,7 +22,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=eononenoe&hide_border=true&locale=en" alt="GitHub Stats" />
