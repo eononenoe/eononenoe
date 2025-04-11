@@ -25,7 +25,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eononenoe&show_icons=true&theme=graywhite&count_private=true&hide=stars" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eononenoe&hide_border=true&locale=en"/>
 </p>
 
 ---
@@ -34,14 +34,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eononenoe&layout=compact&theme=graywhite" width="45%"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eononenoe&hide_border=true&locale=en"/>
 </p>
 
 ---
