@@ -18,7 +18,7 @@
 - 🔭 Currently building **full-stack applications** with **Java, Spring, Oracle, MySQL, JavaScript, JSP, Python, HTML, CSS, Vibe Coding**
 - 🌱 Diving deeper into **Cloud Computing (AWS)** and **System Design**
 - 🛠️ Passionate about writing **clean, scalable, and impactful code**
-- 📫 Contact me: **[ jeonghyeon0921@gmail.com ]**
+- 📫 Contact me: **[ jeonghyeon0921@gmail.com ]** 
  
 ---
 
