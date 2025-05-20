@@ -57,13 +57,13 @@
 ## 🐴 Git Animals
 
 <p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=eononenoe&utm_content=line">
-    <img
-      src="https://render.gitanimals.org/lines/eononenoe?pet-id=700208135692200641"
-      width="600"
-      height="150"
-    />
-  </a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=eononenoe&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/eononenoe"
+  width="600"
+  height="300"
+/>
+</a>
 </p>
 
 ---
