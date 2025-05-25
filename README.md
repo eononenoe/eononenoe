@@ -5,7 +5,7 @@
 ---
  
 <p align="center"> 
-  <b>"Software should solve problems, not create them. I make sure it does."</b> 
+  <b>"Software should solve problems, not create them. I make sure it does."</b>  
 </p>
 
 --- 
