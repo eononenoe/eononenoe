@@ -5,20 +5,18 @@
 ---
    
 <p align="center">  
-  <b>"Software should solve problems, not create them. I make sure it does."</b>  
+  <b>"First, solve the problem. Then, write the code."</b>  
 </p> 
   
 --- 
  
-## 🚀 About Me
+## 📃 자기소개
 
-> "Started coding out of pure curiosity, built my first website in high school,     
-> and fell in love with how a few lines of code can change the world."
+> "순수한 호기심으로 코딩을 시작했고, 고등학교 때 첫 웹사이트를 만들면서 몇 줄의 코드로 나만의 세상을 구현하는 즐거움을 알게 되었습니다"
 
-- 🔭 Currently building **full-stack applications** with **Java, Spring, Oracle, MySQL, JavaScript, JSP, Python, HTML, CSS, Vibe Coding**
-- 🌱 Diving deeper into **Cloud Computing (AWS)** and **System Design** 
-- 🛠️ Passionate about writing **clean, scalable, and impactful code**
-- 📫 Contact me: **[ jeonghyeon0921@gmail.com ]** 
+- **IntelliJ, VS Code**를 주 개발 도구로 활용하여 **풀스택** 애플리케이션을 개발하고 있습니다. 프론트엔드는 **React, JavaScript, HTML5, CSS3, MUI** 스텍을 백엔드는 **Java, Spring Boot, JPA, Spring Security, Lombok, JWT, HikariCP**를 주로 사용합니다. 데이터베이스는 **MySQL**을 다루며 **Kakao, Google, PortOne, Daum** 등 다양한 외부 API 연동 경험이 있으며 **Git**과 **GitHub**을 활용한 버전 관리 및 협업에 능숙합니다.
+-  **클라우드 컴퓨팅 AWS**과 **시스템 디자인**에 대해 깊이 있게 학습하고 있습니다.
+-  **깔끔**하고 **확장** 가능하며 **영향력 있는 코드**를 작성하는 것에 열정을 가지고 있습니다.
  
 ---
 
