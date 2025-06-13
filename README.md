@@ -22,22 +22,6 @@
  
 ---
 
-## 📈 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eononenoe&hide_border=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
-
-## 📡 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eononenoe&layout=compact&theme=graywhite" width="45%"/>
-</p>
-
----
-
 ## 🛠️ Skills
 
 <p align="center">
