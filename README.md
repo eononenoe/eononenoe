@@ -24,7 +24,7 @@
 
 ## 🛠️ Skills
 
-<p align="center">
+<p align="center"> 
 
 - **개발 도구**
 <div>
