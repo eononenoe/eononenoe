@@ -22,7 +22,7 @@
  
 ---
 
-## 🛠️ Skills
+## 🛠️ 기술
 
 <p align="center"> 
 
@@ -76,7 +76,7 @@
 
 ---
 
-## 🐴 Git Animals
+## 🐴 Git 기여도
 
 <p align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=eononenoe&utm_content=farm">
@@ -90,7 +90,7 @@
 
 ---
 
-## 🐍 Contributions Snake
+## 🐍 Commit 현황
 
 <p align="center">
   <img src="https://eononenoe.github.io/eononenoe/github-contribution-grid-snake.svg" />
@@ -98,7 +98,7 @@
 
 ---
 
-## 📦 Featured Projects
+## 📦 프로젝트
 
 ### 🔨 [INFOMATION_LECTURE](https://github.com/eononenoe/INFOMATION_LECTURE)
 - 정보처리산업기사 과정평가형 내용 정리 REPO입니다.
