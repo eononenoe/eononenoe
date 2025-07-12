@@ -5,7 +5,7 @@
 ---
    
 <p align="center">    
-  <b>"First, solve the problem. Then, write the code."</b>   
+  <b>"First, solve the problem. Then, write the code."</b>    
 </p> 
    
 ---   
