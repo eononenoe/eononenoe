@@ -8,7 +8,7 @@
   <b>"First, solve the problem. Then, write the code."</b>    
 </p> 
    
----   
+---     
   
 ## 📃 자기소개 
 
@@ -26,7 +26,7 @@
  
 <p align="center">  
 
-- **개발 도구**
+- **개발 도구**  
 <div>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
