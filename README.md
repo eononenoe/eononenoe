@@ -95,6 +95,7 @@
 <p align="center">
   <img src="https://eononenoe.github.io/eononenoe/github-contribution-grid-snake.svg" />
   <img src="https://eononenoe.github.io/eononenoe/github-contribution-grid-snake-seasonal.svg" />
+  <img src="https://eononenoe.github.io/eononenoe/github-snake-bloom.svg" />
 </p>
 
 ---
