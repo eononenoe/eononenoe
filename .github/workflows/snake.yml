@@ -18,6 +18,7 @@ jobs:
           github_user_name: eononenoe
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-seasonal.svg?color_snake=#674ea7&color_dots=#E0E0E0,#A0D2EB,#F7B7C3,#88D18A,#D18C4B            
       
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
