@@ -23,8 +23,12 @@
 ---    
 ## 🧩 문제 해결
 
+<div align="center">
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonghyeon0921)](https://solved.ac/jeonghyeon0921/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jeonghyeon0921&theme=warm)
+
+</div>
 
 ---
  
