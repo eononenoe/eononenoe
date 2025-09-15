@@ -21,6 +21,11 @@
 >  **깔끔**하고 **확장** 가능하며 **영향력 있는 코드**를 작성하는 것에 열정을 가지고 있습니다.  
    
 ---    
+## 🧩 문제 해결
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonghyeon0921)](https://solved.ac/jeonghyeon0921/)
+
+---
  
 ## 🛠️ 기술
   
