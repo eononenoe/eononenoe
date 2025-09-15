@@ -3,12 +3,6 @@
 </p>
   
 --- 
-     
-<p align="center">     
-  <b>"First, solve the problem. Then, write the code."</b>    
-</p>  
-      
----
    
 ## 📃 자기소개 
   
@@ -21,6 +15,14 @@
 >  **깔끔**하고 **확장** 가능하며 **영향력 있는 코드**를 작성하는 것에 열정을 가지고 있습니다.  
    
 ---    
+
+## 🐍 Commit 현황
+
+<p align="center">
+  <img src="https://eononenoe.github.io/eononenoe/github-snake-bloom.svg" />
+</p>
+
+---
 ## 🧩 문제 해결
 
 <div align="center">
@@ -85,7 +87,7 @@
 </p>
 
 ---
-
+<!--
 ## 🐴 Git 기여도
 
 <p align="center">
@@ -99,14 +101,7 @@
 </p>
 
 ---
-
-## 🐍 Commit 현황
-
-<p align="center">
-  <img src="https://eononenoe.github.io/eononenoe/github-snake-bloom.svg" />
-</p>
-
----
+-->
 
 ## 📦 프로젝트
 
