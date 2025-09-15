@@ -106,7 +106,7 @@
 ## 📦 프로젝트
 
 ### 🔨 [INFOMATION_LECTURE](https://github.com/eononenoe/INFOMATION_LECTURE)
-- 정보처리산업기사 과정평가형 내용 정리 REPO입니다.
+- 정보처리산업기사 내용 정리 REPO입니다.
 - 수상 : 성적우수상
 - [🔗 View Repository](https://github.com/eononenoe/INFOMATION_LECTURE)
 
