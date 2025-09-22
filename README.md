@@ -26,6 +26,7 @@
 </p>
 
 ---
+<!--
 ## 🧩 문제 해결
 
 <div align="center">
@@ -36,7 +37,7 @@
 </div>
 
 ---
- 
+ -->
 ## 🛠️ 기술
          
 <div align="center">
