@@ -1,18 +1,21 @@
+<!--
 <p align="center"> 
   <img src="/image/hello.gif" width="100%" height="300px"/>
 </p>
-  
+
 --- 
+-->
    
-## 📃 자기소개 
-  
-- 순수한 호기심으로 코딩을 시작했고, 고등학교 때 간단한 HTML 페이지를 만들면서 몇 줄의 코드로 나만의 세상을 구현하는 즐거움을 알게 되었습니다        
- 
-> **IntelliJ, VS Code**를 주 개발 도구로 활용하여 **풀스택** 애플리케이션을 개발하고 있습니다. 프론트엔드는 **React, JavaScript, HTML5, CSS3, MUI** 스텍을 백엔드는 **Java, Spring Boot, JPA, Spring Security, Lombok, JWT, HikariCP**를 주로 사용합니다. 데이터베이스는 **MySQL**을 다루며 **Kakao, Google, PortOne, Daum** 등 다양한 외부 API 연동 경험이 있으며 **Git**과 **GitHub**을 활용한 버전 관리 및 협업에 능숙합니다. 
+## 📃 자기소개  
 
--  **클라우드 컴퓨팅 AWS**과 **디자인**에 대해 학습하고 있습니다.   
+ 고등학교 시절 간단한 HTML 페이지 제작을 계기로 **코드로 세상을 구현하는 즐거움**을 알게 되었고, 현재는 **백엔드 중심의 웹 개발자**로 성장하고 있습니다.  
 
->  **깔끔**하고 **확장** 가능하며 **영향력 있는 코드**를 작성하는 것에 열정을 가지고 있습니다.  
+> **IntelliJ, VS Code**를 활용해 **Java + Spring Boot + MySQL** 기반의 백엔드 애플리케이션을 개발하며,  
+> **Spring Security, JPA, JWT**를 통한 인증/권한 관리와 안정적인 서버 아키텍처 구축에 집중하고 있습니다.  
+> 프론트엔드에서는 **React + JavaScript**로 UI를 구현한 경험이 있으며, **REST API 연동**을 통해 백엔드와의 협업 프로젝트를 진행했습니다.  
+> 또한 **Git/GitHub**으로 프로젝트 버전 관리 및 협업을 경험했고, 최근에는 **AWS 클라우드 서비스**를 학습하며 배포/운영 능력을 확장하고 있습니다.  
+ **깔끔하고 유지보수 가능한 코드**, 그리고 **확장성 있는 서비스**를 만드는 것에 큰 열정을 가지고 있습니다.  
+
     
 ---    
 
@@ -38,12 +41,11 @@
          
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Java-CC0000?style=for-the-badge&logo=openjdk&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white"/>
-   <img src="https://img.shields.io/badge/MySQL-003D8F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-003D8F?style=flat&logo=mysql&logoColor=white"/>
   
 </div>
 
