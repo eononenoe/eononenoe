@@ -79,7 +79,7 @@
 - [🔗 View Repository](https://github.com/eononenoe/Project_HealthMe)
 
  ### 🔨 [Project_TrafficAnalysis](https://github.com/eononenoe/Project_TrafficAnalysis)
-- 교통분 프로젝트입니다.
+- 교통분석 프로젝트입니다.
 - [🔗 View Repository](https://github.com/eononenoe/Project_TrafficAnalysis)
 
 ---
