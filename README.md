@@ -75,11 +75,11 @@
 - 헬시미 프로젝트입니다.
 - [🔗 View Repository](https://github.com/eononenoe/Project_HealthMe)
 
- ### 🔨 [Project_TrafficAnalysis](https://github.com/eononenoe/Project_TrafficAnalysis)
+### 🔨 [Project_TrafficAnalysis](https://github.com/eononenoe/Project_TrafficAnalysis)
 - 교통분석 프로젝트입니다.
 - [🔗 View Repository](https://github.com/eononenoe/Project_TrafficAnalysis)
 
-- ### 🔨 [Smt_Ai](https://github.com/eononenoe/Smt_Ai)
+### 🔨 [Smt_Ai](https://github.com/eononenoe/Smt_Ai)
 - AI 기반 제조 불량 예측 및 품질 개선 솔루션 머신러닝과 대규모 언어모델(LLM)을 결합한 하이브리드 AI 에이전트 시스템입니다
 - [🔗 View Repository](https://github.com/eononenoe/Smt_Ai)
 
