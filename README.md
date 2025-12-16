@@ -26,8 +26,9 @@
   <img src="https://eononenoe.github.io/eononenoe/github-snake-bloom.svg" />
 </p>
 
----
 <!--
+---
+
 ## 🧩 문제 해결
 
 <div align="center">
@@ -39,21 +40,22 @@
 
 ---
  -->
-## 🛠️ 기술
+## 🛠️ 언어
          
 <div align="center">
   
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-003D8F?style=flat&logo=mysql&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> -->
+<!-- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/MySQL-003D8F?style=flat&logo=mysql&logoColor=white"/> -->
   
 </div>
 
----
 <!--
+---
+
 ## 🐴 Git 기여도
 
 <p align="center">
